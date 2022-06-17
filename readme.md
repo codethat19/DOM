@@ -7,4 +7,4 @@ count as Winner(if you just want to play a good old fashio dice throwoff!). If t
 <image-caption src="/foo.png" alt="winner">winner</image-caption>
 
 ![image](https://user-images.githubusercontent.com/20292628/174340935-9e7a4800-1d33-4190-b464-1bf68fe2c122.png)
-tie
+<center>tie</center>
